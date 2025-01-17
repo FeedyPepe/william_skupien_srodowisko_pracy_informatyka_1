@@ -10,7 +10,7 @@ void generateFibonacci(int n) {
         t1 = t2;
         t2 = nextTerm;
     }
-    std::cout << std::endl;
+    std::cout <<"ten kod jest po edycji" << std::endl;
 }
 
 int main() {

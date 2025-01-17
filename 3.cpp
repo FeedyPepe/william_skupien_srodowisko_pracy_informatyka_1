@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+std:: cout << "w tym pliku wprowadzono zmiany" << endl;
 bool isPrime(int num) {
     if (num <= 1) return false;
     for (int i = 2; i <= std::sqrt(num); ++i) {
