@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+// to jest wprowadzona zmiana
 void bubbleSort(std::vector<int>& arr) {
     int n = arr.size();
     for (int i = 0; i < n - 1; ++i) {
